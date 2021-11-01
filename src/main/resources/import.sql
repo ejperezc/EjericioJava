@@ -1,0 +1,3 @@
+insert into usuarios (name,email,password,create,modified,last_login,token,isactive) values ('Esteban','esteban@gmail.com','pass123',sysdate-5,sysdate-4,sysdate-3,'qweh123','0');
+insert into usuarios (name,email,password,create,modified,last_login,token,isactive) values ('Jose','je@gmail.com','pass123',sysdate-5,sysdate-4,sysdate-3,'qweh123','0');
+insert into usuarios (name,email,password,create,modified,last_login,token,isactive) values ('Judith','marin@gmail.com','pass123',sysdate-5,sysdate-4,sysdate-3,'qweh123','1');
